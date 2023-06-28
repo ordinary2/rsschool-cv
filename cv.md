@@ -39,3 +39,15 @@ function finalGrade (exam, projects) {
   else return 0;
 }
 ```
+
+---
+### Education:
+- Univeristy: Georgia Technical University
+
+---
+## Languages:
+- Georgian - Native
+- Russian - Basic
+- English - Intermediate
+
+![Result from efset.org](./images/esp.PNG)
