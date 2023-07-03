@@ -66,3 +66,39 @@ img {
   font-weight: 600;
   font-size: 21px;
 }
+
+.contact-item {
+  font-size: 19px;
+}
+
+.contact-item a {
+  color: rgb(59, 55, 44);
+  text-decoration: none;
+  transition: ease .5s;
+}
+
+.contact-item a:hover {
+  color: rgb(141, 129, 97);
+  text-decoration: underline;
+}
+
+.sections {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.sections section {
+  width: 48%;
+}
+section {
+  border-bottom: 2px solid rgb(141, 131, 100);
+}
+
+.skill-item span {
+  color: rgb(141, 131, 100);
+}
+
+.course-item span {
+  color: rgb(141, 131, 100);
+}
