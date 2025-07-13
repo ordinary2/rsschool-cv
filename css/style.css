@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: rgb(59, 55, 44);
+  font-size: 19px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
